@@ -6,7 +6,7 @@
 
 ---
 
-#####[WebSploit Labs](https://websploit.org): A learning environment created by Omar Santos
+##### [WebSploit Labs](https://websploit.org): A learning environment created by Omar Santos
 <br/>
 
 ![Vunlerable Applications](https://websploit.org/assets/images/websploit-topo-1360x1228.png)
