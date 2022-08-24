@@ -7,6 +7,7 @@
 ---
 
 ##### [WebSploit Labs](https://websploit.org): A learning environment created by Omar Santos
+
 <br/>
 
 ![Vunlerable Applications](https://websploit.org/assets/images/websploit-topo-1360x1228.png)
@@ -27,11 +28,11 @@ curl -sSL https://websploit.org/install.sh | shdo bash
 -   THis command install all the tools, Docker, the intentionally vulnerable containers, and numerous cybersecurity resoruces
 
 <h4>2. Start</h4>
+
 ```sh
 service docker start
 sudo docker ps
-
-````
+```
 
 <h4>3. Upgrade</h4>
 
@@ -39,4 +40,4 @@ sudo docker ps
 weget https://websploit.org/update.sh
 sudo bash update.sh
 
-````
+```
