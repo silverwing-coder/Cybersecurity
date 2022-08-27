@@ -21,7 +21,7 @@
 ##### 1.2. Run the WebSploit install script
 
 ```sh
-curl -sSL https://websploit.org/install.sh | shdo bash
+curl -sSL https://websploit.org/install.sh | sudo bash
 
 ```
 
