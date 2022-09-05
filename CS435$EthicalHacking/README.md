@@ -22,18 +22,49 @@
 
 ---
 
-<h4>Course contents</h4>
+<h4>Course Schedule</h4>
 
-1.  Intro. to Ethical Hacking and Penetration Testing
-2.  Planning and Scoping a Penetration Test Assessment
-3.  Information Gathering and Vulnerability Scanning
-4.  Social Engineering Attacks
-5.  Exploiting Wired and Wireless Networks
-6.  Exploiting Application-Based Vulnerabilities
-7.  Cloud, Mobile, and IoT Security
-8.  Performing Post-Exploitation Techniques
-9.  Reporting and Communication
-10. Tools and Code Analysis
+<h5>Week-1: </h5>
+
+-   Intro. to Ethical Hacking and Penetration Testing
+-   Planning and Scoping a Penetration Testing Assessment
+-   Quiz#1, Report#1 (OWASP Juice-Shop)
+
+<h5>Week-2: </h5>
+
+-   Information Gathering and Vulnerability Scanning-1
+-   Information Gathering and Vulnerability Scanning-2
+-   Quiz#2, Project#1 (Lab environment setup)
+
+<h5>Week-3: </h5>
+
+-   Social Engineering Attacks
+-   Exploiting Wired and Wireless Networks-1
+-   Quiz#3, Report#2 (SEC tool & Web application vulnerability test: OWASP Juice-Shop)
+
+<h5>Week-4: </h5>
+
+-   Exploiting Wired and Wireless Networks-2
+-   Exploiting Application-Based Vulnerabilities-1
+-   Mid-term exam, Report#3 (WireShark & Web application vulnerability test: OWASP Juice-Shop)
+
+<h5>Week-5: </h5>
+
+-   Exploiting Application-Based Vulnerabilities-2
+-   Cloud, Mobile, and IoT Security
+-   Quiz#4, Report#4 (Web application vulnerability test: OWASP Juice-Shop)
+
+<h5>Week-6: </h5>
+
+-   Performing Post-Exploitation Techniques
+-   Reporting and Communication
+-   Quiz#5, Report#5 (Web application vulnerability test: OWASP Juice-Shop)
+
+<h5>Week-7: </h5>
+
+-   Tools and Code Analysis-1
+-   Tools and Code Analysis-2
+-   Final exam, Final Project/Report
 
 ---
 
