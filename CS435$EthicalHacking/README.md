@@ -43,4 +43,4 @@
 2. [MITRE Cybersecurity Area](https://www.mitre.org/focus-areas/cybersecurity)
 3. [DHS CISA: Cybersecurity & Infrastructure Security Agency](https://www.cisa.gov/)
 4. [USCYBERCOM: U.S. Cyber Command](https://www.cybercom.mil/)
-5. <em>and Course Materials in [CyberSecurity Repo](https://github.com/silverwing-coder/Cybersecurity) </em> 
+5. <em style="color:red"><u> (+) Course materials provided in class </u></em>
