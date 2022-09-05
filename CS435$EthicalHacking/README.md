@@ -1,6 +1,6 @@
 <h6>Ver. Aug-2022.</h6>
 <h2> CS-435 "Ethical Hacking" </h2>
-<h4 style="color:green"><i> Prof.Sangmork "SAM" Park (Col. ROKAF)</i></h4>
+<h4 style="color:green"><i> Prof. Sangmork "SAM" Park (Col. ROKAF)</i></h4>
 <h5><u><i>School of Arts and Science, Carolina University</i></u></h5>
 
 <h4>Textbook:</h4> 
