@@ -39,7 +39,7 @@ sudo docker ps
 <h4>3. Upgrade</h4>
 
 ```sh
-weget https://websploit.org/update.sh
+wget https://websploit.org/update.sh
 sudo bash update.sh
 
 ```
