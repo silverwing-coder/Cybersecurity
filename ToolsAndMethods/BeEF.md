@@ -61,14 +61,21 @@ ping attack-ip-address
 4. A victim's web-browser access to the compromised web-server. (Attacker's server)
 
 5. Verify hook-ups on BeEF
-   4-1. Current Browser -> Details
-   4-2. Current Browser -> Network
+
+   5-1. Current Browser -> Details
+   
+   5-2. Current Browser -> Network
 
 6. Control the victim's web-browser.
 
     5-1. Current Browser -> Command -> Browser -> Get Cookie -> check Command results
+    
     5-2. Current Browser -> Command -> Browser -> Redirect Browser (iFrame) -> set New Favicon & Redirect URL (Monitor the url window)
+    
     5-3. Current Browser -> Command -> Network -> Port Scanner -> set ip-address for scanning
+    
     5-4. Current Browser -> Command -> Social Engineering -> Fake Flash Update -> set Image & Custom Payload URL
+    
     5-5. Current Browser -> Command -> Social Engineering -> Google Phishing -> set XSS hook URI -> check Command results
+    
     5-6. Current Browser -> Command -> Social Engineering -> Pretty Theft -> set Dialog Type & Custom Logo -> check Command results
