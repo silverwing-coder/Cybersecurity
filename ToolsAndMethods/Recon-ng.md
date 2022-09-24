@@ -4,9 +4,13 @@
 -   Full featured Web Reconnaissance Framework written in Python
 -   Used for automated information gathering of OSINT (detailed searches of public records)
 -   Refer to
+
     [1. GitHub: Recon-ng](https://github.com/lanmaster53/recon-ng)
+
     [2. Kali-Linux: Recon-ng](https://www.kali.org/tools/recon-ng/)
+
     [3. Geeksforgeeks Tutorial: Recon-ng](https://www.geeksforgeeks.org/recon-ng-installation-on-kali-linux/#:~:text=Recon%2Dng%20is%20a%20Web,we%20can%20gather%20all%20information)
+
     [4. Hackertarget Tutorial: Recon-ng](https://hackertarget.com/recon-ng-tutorial/)
 
 ---
