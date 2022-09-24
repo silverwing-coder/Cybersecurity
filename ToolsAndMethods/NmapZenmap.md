@@ -1,8 +1,7 @@
 <h6>ver. Sep-2022</h6>
 <h2> Nmap and Zenmap</h2>
 
--   Full featured Web Reconnaissance Framework written in Python
--   Used for automated information gathering of OSINT (detailed searches of public records)
+-   Active scanner for collectiong information about a victim by using tools such as port and vulnerability scanners
 -   Refer to
 
     [1. Namp&Zenmap](https://nmap.org/)
