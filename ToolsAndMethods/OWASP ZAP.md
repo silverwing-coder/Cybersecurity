@@ -15,7 +15,7 @@
 
 ```sh
 
-# install Nikto if necessary (KaliLinux default)
+# KaliLinux default
 sudo apt install zaproxy
 
 # invoke GUI Zaproxy
