@@ -1,6 +1,6 @@
 <h5><em>Update: Aug-2022</em></h5>
 
-<h2> Metasploit</h2>
+<h2> Metasploit (cc. Armitage)</h2>
 
 <h3> Metasploit Project Intro.</h3>
 
