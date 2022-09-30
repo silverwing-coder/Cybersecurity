@@ -10,7 +10,7 @@
 
     [2. GitHub: steghide](https://github.com/StefanoDeVuono/steghide)
 
-    [2. Kali: steghide](https://www.kali.org/tools/steghide/)
+    [3. Kali: steghide](https://www.kali.org/tools/steghide/)
 
 ---
 
