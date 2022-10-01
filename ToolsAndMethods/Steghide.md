@@ -2,7 +2,7 @@
 
 <h2> Steghide</h2>
 
--   Steganography tool for obfuscation, evasion, and to cover attacker's tracks
+-   Steganography tool for obfuscation, evasion, and covering attacker's tracks
 
 -   Refer to
 

