@@ -16,7 +16,7 @@ Refer to https://beefproject.com/
 
 ```sh
 sudo apt install beef-xss
-# set id/passwd. Default valeus does not work.
+# set id/passwd. Default values does not work.
 sudo nano /etc/beef-xss/./config.yaml
 cd /usr/share/beef-xss
 ./beef
@@ -33,7 +33,7 @@ cd /usr/share/beef-xss
 ifconfig
 ```
 
-2. Identify victiom's ip-address
+2. Identify victim's ip-address
 
 ```sh
 ipconfig
@@ -62,20 +62,20 @@ ping attack-ip-address
 
 5. Verify hook-ups on BeEF
 
-   5-1. Current Browser -> Details
-   
-   5-2. Current Browser -> Network
+    5-1. Current Browser -> Details
+
+    5-2. Current Browser -> Network
 
 6. Control the victim's web-browser.
 
     6-1. Current Browser -> Command -> Browser -> Get Cookie -> check Command results
-    
+
     6-2. Current Browser -> Command -> Browser -> Redirect Browser (iFrame) -> set New Favicon & Redirect URL (Monitor the url window)
-    
+
     6-3. Current Browser -> Command -> Network -> Port Scanner -> set ip-address for scanning
-    
+
     6-4. Current Browser -> Command -> Social Engineering -> Fake Flash Update -> set Image & Custom Payload URL
-    
+
     6-5. Current Browser -> Command -> Social Engineering -> Google Phishing -> set XSS hook URI -> check Command results
-    
+
     6-6. Current Browser -> Command -> Social Engineering -> Pretty Theft -> set Dialog Type & Custom Logo -> check Command results
