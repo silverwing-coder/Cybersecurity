@@ -1,17 +1,49 @@
-<h5><em>update. July-2022</em></h5>
-<h3> Reference Sites for Ethical Hacking </h3>
+<h5><em>update. Oct-2022</em></h5>
+<h3> Reference Sites for Cybersecurity</h3>
 
 ---
 
-<h4> 1. Tutorial Documents for Pen-Testing Tools </h4>
+<h4> 1. Cybersecurity Guidance </h4>
 
--   The-Art-of_Hacking/h4cker: https://github.com/The-Art-of-Hacking/h4cker
+<h5> 1-1. Regulatory Frameworks </h5>
+
+-   COBIT (Control Objectives for Information and Related Technology): https://www.isaca.org/resources/cobit
+-   EU-US Privacy Shield Framework: https://www.privacyshield.gov/welcome
+-   FedRAMP:https://www.fedramp.gov/
+-   ITIL (Information Technology Infrastructure Library)
+-   NIST Cybersecurity Framework: https://www.nist.gov/cyberframework
+-   ISO/IEC 27001, 27002, ...: https://www.iso.org/standard/82875.html
+
+<h5> 1-2. Information and Standards </h5>
+
+-   CISA Automated Indicator Sharing (AIS): https://www.cisa.gov/ais
+-   CISA Information Sharing and Awareness: https://www.cisa.gov/information-sharing-and-awareness
+-   First CVSS: https://www.first.org/cvss/
+-   IETF RFCs: https://www.ietf.org/standards/rfcs/
+-   MITRE ATTACK: https://attack.mitre.org/
+-   MITRE Common Vulnerabilities and Exposure: https://cve.mitre.org/
+-   NIST National Vulnerability Database: https://nvd.nist.gov/
+-   OASIS-Open: https://www.oasis-open.org/
+-   OASIS-Open STIX/TAXII: https://github.com/oasis-open/cti-documentation
+
+---
+
+<h4> 2. Pen-Testing Guidance </h4>
+
+<h5> 2-1. Pen-Testing Guidance </h5>
+
+-   Penetration Testing Execution Standards(PTES): http://www.pentest-standard.org/index.php/Main_Page
+-   NIST Technical Guide to Information Security Testing and Assessment: https://www.nist.gov/privacy-framework/nist-sp-800-115
+-   OWASP Web Security Testing Guide: https://owasp.org/www-project-web-security-testing-guide/
+-   Open Source Security Testing Methodology Manual: https://www.isecom.org/OSSTMM.3.pdf
+
+<h5> 2-2. Reference Tutorial </h5>
+
+-   The-Art-of-Hacking/h4cker: https://github.com/The-Art-of-Hacking/h4cker
 -   Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
 -   Metasploit Mimikats: https://www.offensive-security.com/metasploit-unleashed/mimikatz/
 
----
-
-<h4> 2. Tools for Training </h4>
+<h5> 2-3. Training Labs </h5>
 
 -   WebSploit: https://websploit.org
 -   OWASP Juice-Shop: https://owasp.org/www-project-juice-shop/
@@ -24,28 +56,23 @@
 
 -   CEH: https://www.eccouncil.org/programs/
 -   CISA (Cybersecurity and Infrastructure Security Agency): https://www.cisa.gov/
--   CISA Automated Indicator Sharing (AIS): https://www.cisa.gov/ais
--   CISA Information Sharihg and Awareness: https://www.cisa.gov/information-sharing-and-awareness
 -   Cloud Security Alliance: https://cloudsecurityalliance.org/
 -   CTF Time: https://ctftime.org/ctf-wtf/
--   First CVSS: https://www.first.org/cvss/
 -   H4CKER: https://h4cker.org
--   IETF RFCs: https://www.ietf.org/standards/rfcs/
 -   Information Sharing and Analysis Center: https://www.nationalisacs.org/
 -   InfraGrad: https://www.infragard.org/
 -   ITProTV Free Training: https://www.itpro.tv/plans/personal/
--   MITRE ATTACK: https://attack.mitre.org/
--   MITRE Common Vulnerabilities and Exposure: https://cve.mitre.org/
 -   MITRE Cybersecurity: https://www.mitre.org/focus-areas/cybersecurity
 -   My ITProTV affiliate link: https://go.itpro.tv/davidbombal
 -   NIST Computer Security Resource Center: https://csrc.nist.gov/
--   NIST Cybersecurity Framework: https://www.nist.gov/cyberframework
--   NIST National Vulnerability Database: https://nvd.nist.gov/
--   OASIS-Open: https://www.oasis-open.org/
--   OASIS-Open STIX/TAXII: https://github.com/oasis-open/cti-documentation
 -   OWASP: https://owasp.org/
 -   SANS: https://www.sans.org/
--   Academic Journals
+
+<h5> 3-1 Bug Bounty Programs</h5>
+
+-   HackerOne: https://www.hackerone.com
+-   BugCrowd: https://www.bugcrowd.com/
+-   Intrigriti: https://www.bugcrowd.com/
 
 ---
 
@@ -69,7 +96,7 @@
 
 ---
 
-<h4> 6. Offensive/Defensive Tools </h4>
+<h4> 6. Offensive / Defensive Tools </h4>
 <h5> 6-1. Passive Reconnaissance </h5>
 
 -   Censys: https://censys.io/
