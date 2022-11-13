@@ -55,8 +55,9 @@
 <h4> 3. Institute / Organization / Community </h4>
 
 -   CEH: https://www.eccouncil.org/programs/
+-   CIS (Center for Internet Security): https://www.cisecurity.org/
 -   CISA (Cybersecurity and Infrastructure Security Agency): https://www.cisa.gov/
--   Cloud Security Alliance: https://cloudsecurityalliance.org/
+-   CSA (Cloud Security Alliance): https://cloudsecurityalliance.org/
 -   CTF Time: https://ctftime.org/ctf-wtf/
 -   H4CKER: https://h4cker.org
 -   Information Sharing and Analysis Center: https://www.nationalisacs.org/
@@ -97,6 +98,9 @@
 ---
 
 <h4> 6. Offensive / Defensive Tools </h4>
+
+-   Windows PowerShell Gallery: https://www.powershellgallery.com/
+
 <h5> 6-1. Passive Reconnaissance </h5>
 
 -   Censys: https://censys.io/
