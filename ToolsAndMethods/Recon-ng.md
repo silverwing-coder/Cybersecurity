@@ -1,4 +1,4 @@
-<h6>ver. Sep-2022</h6>
+<h6>ver. Nov.-2022</h6>
 <h2> Recon-ng</h2>
 
 -   Full featured Web Reconnaissance Framework written in Python
@@ -64,12 +64,37 @@ recon-ng
 > run
 > back
 
-
 # use recon/domains-hosts/shodan_hostname
-
 
 # check api database: keys.db
 ls ~/.recon-ng
+
+### CompTIA PenTest
+> marketplace search
+> marketplace search bing
+> marketplace install recon/domains-hosts/bing_domain_web
+> modules search
+> modules load recon//domains-hosts/bing_domain_web
+> info
+> options set SOURCE h4cker.org
+> run
+> back
+
+> marektplace search ssl
+> marketplace info ssltools
+> marketplace install hackertarget
+> modules load hackertarget
+> help
+> options list
+> options set SOURCE tesla.com
+> info
+> input
+> run
+> back
+
+# Add API keys
+> keys add shodan_api <API-Key>
+> back
 
 
 ```
