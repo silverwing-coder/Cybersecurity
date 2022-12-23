@@ -11,7 +11,7 @@
 <h4>Prerequisites:</h4>
 
 -   Fundamental knowledge of Computer Systems, Networking, Database, Web Services/Applications, Linux, Cryptography, and Web Programming.
--   Basic skills on Programming
+-   Basic skills on Programming (Python and Shell Scripting required, Perl and Ruby recommended )
 
 ---
 
