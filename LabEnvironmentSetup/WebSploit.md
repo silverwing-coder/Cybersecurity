@@ -43,3 +43,7 @@ wget https://websploit.org/update.sh
 sudo bash update.sh
 
 ```
+
+<h4>4. Access ports of the vulerable machines</h4>
+
+<img src="../Images/websploitAccessPorts.png" width=700\>
